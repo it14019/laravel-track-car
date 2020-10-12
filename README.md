@@ -1,4 +1,4 @@
-**Description**
+**Description** </br>
 Laravel + React application using Google Maps API to track user-defined amount of vehicles.
 
 ![Alt text](track-car-gif.gif?raw=true "gif")
